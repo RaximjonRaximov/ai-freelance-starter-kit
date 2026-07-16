@@ -17,6 +17,7 @@ Bu to'plam O'zbekistondan chiqib, dunyo bo'ylab mijozlarga xizmat ko'rsatish uch
 - `invoice-template.md` — mijozlarga yuboriladigan hisob-faktura namunasi
 - `requirements.txt` — bot ishga tushirish uchun paketlar
 - `.env.example` — muhit o'zgaruvchilari namunasi
+- `samples/` — mijozlarga darhol ko'rsatilishi mumkin bo'lgan tayyor namunalar (restoran SMM, blog, tarjima)
 
 ## Tez yo'nalishlar
 
